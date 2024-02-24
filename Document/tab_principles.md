@@ -6,36 +6,36 @@ tab: true
 order: 2
 tags: Champions
 ---
-**The Ten Key Principles for a Successful Security Champions Program**
-1. [Be passionate about security](#1-be-passionate-about-security)
-2. [Start with a clear vision for your program](#2-start-with-a-clear-vision-for-your-program)
-3. [Secure management support](#3-secure-management-support)
-4. [Nominate a dedicated captain](#4-nominate-a-dedicated-captain)
-5. [Trust your champions](#5-trust-your-champions)
-6. [Create a community](#6-create-a-community)
-7. [Promote knowledge sharing](#7-promote-knowledge-sharing)
-8. [Reward responsibility](#8-reward-responsibility)
-9. [Invest in your champions](#9-invest-in-your-champions)
-10. [Anticipate personnel changes](#10-anticipate-personnel-changes)
+**セキュリティチャンピオンプログラムを成功させるための十大原則**
+1. [セキュリティに情熱を注ぐ](#1-be-passionate-about-security)
+2. [プログラムの明確なビジョンから開始する](#2-start-with-a-clear-vision-for-your-program)
+3. [経営陣の支援を確保する](#3-secure-management-support)
+4. [専任のキャプテンを指名する](#4-nominate-a-dedicated-captain)
+5. [チャンピオンを信頼する](#5-trust-your-champions)
+6. [コミュニティを作成する](#6-create-a-community)
+7. [知識の共有を促進する](#7-promote-knowledge-sharing)
+8. [責任に報いる](#8-reward-responsibility)
+9. [チャンピオンに投資する](#9-invest-in-your-champions)
+10. [人事異動を予測する](#10-anticipate-personnel-changes)
 
 ---
 
 <br>
 
 <p align="center">
-  <img src="assets/images/OWASP Security Champions Manifesto icon1.png" /><br>
+  <img src="https://raw.githubusercontent.com/OWASP/www-project-security-champions-guidebook/main/assets/images/OWASP%20Security%20Champions%20Manifesto%20icon1.png" /><br>
 </p>
-## 1. Be Passionate About Security ##
+## 1. セキュリティに情熱を注ぐ ## <a name="1-be-passionate-about-security"></a>
 
-**What**
+**内容 (What)**
 
 Ensure the people involved in your security champion program are passionate about security. This passion helps to drive the program further and boost the security culture.
 
-**Why**
+**理由 (Why)**
 
 Being passionate about security is crucial because it creates a mindset where security is not just a compliance requirement, but a fundamental part of how an organization operates. When employees are passionate about security, they are more likely to take ownership of security issues, be proactive about identifying potential risks, and advocate for security best practices throughout the organization.
 
-**How**
+**方法 (How)**
 
 Promote security top down and on all levels within your organization. Show security is taken seriously by management and is a key element of the DNA of the company. Then explain the importance of the security champions program within your organization. It should be clear what the program brings and what is expected of the people involved. The employees with passion for security should naturally be attracted to the program and raise their voice. Start with recruiting those volunteers and avoid assigning security champions when possible. 
 
@@ -52,21 +52,21 @@ There are lots of opportunities to spark the passion of security champions. [Thi
 <br>
 
 <p align="center">
-  <img src="assets/images/OWASP Security Champions Manifesto icon2.png" /><br>
+  <img src="https://raw.githubusercontent.com/OWASP/www-project-security-champions-guidebook/main/assets/images/OWASP%20Security%20Champions%20Manifesto%20icon2.png" /><br>
 </p>
-## 2. Start with a clear vision for your program ##
+## 2. プログラムの明確なビジョンから開始する ## <a name="2-start-with-a-clear-vision-for-your-program"></a>
 
-**What**
+**内容 (What)**
 
 A vision is defined as, “the act of power of imagination.”  When you apply vision to the future, you can create a mental picture that can be used to direct your and your organization’s actions toward achieving security. A vision of security champions program serves as a guide in achieving security in your organization and can be used to provide a sense of purpose for IT engineers doing security.
 
-**Why**
+**理由 (Why)**
 
 Having a vision is critical for your decision-making and the long-term success of your program. It gives your program purpose, and clearly articulates the ‘why’ and ‘what’ that you want to see happen and the change you want to achieve. Without a clear end goal or destination from the outset, it will be difficult to create meaningful goals and strategies and make effective decisions.
 
 There are several angles for defining a vision for security champions. The most common angle is that of democratizing security knowledge in the development teams, removing dependencies on the central security team, and governing security in development teams.
 
-**How**
+**方法 (How)**
 
 A successful vision must be:
 * Imaginable:<br>
@@ -90,21 +90,21 @@ Please note that it is not advised to create your vision in isolation. By involv
 <br>
 
 <p align="center">
-  <img src="assets/images/OWASP Security Champions Manifesto icon3.png" /><br>
+  <img src="https://raw.githubusercontent.com/OWASP/www-project-security-champions-guidebook/main/assets/images/OWASP%20Security%20Champions%20Manifesto%20icon3.png" /><br>
 </p>
-## 3. Secure management support ##
+## 3. 経営陣の支援を確保する ## <a name="3-secure-management-support"></a>
 
-**What**
+**内容 (What)**
 
 Ensure your security champion program is recognized as a formal program with a set purpose within your organization. This is achieved when you secure management support for the program.
 
-**Why**
+**理由 (Why)**
 
 A successful security champions program brings unmatchable security benefits to the table. It scales your security mindset and your security organization to the IT Department. Security Champions means that IT engineers are championing security. Doing so requires the IT department and other relevant departments to spend time, effort, and budget to create, nurture and enable the security champions. And this priority will conflict with other IT and Business priorities. Out of experience, we know that when priorities conflict, formalized priorities win the battle. Even the most passionate security champion will struggle to prioritize security over the expected workload. This can lead to frustrations within your security champions and will harm your security champions program.
 
 That is WHY we strongly advise securing management support for your security champion program. This makes the program a formalized priority for the IT Department and thus for the security champions. Security Champions can spend the needed time to improve security without the constant distraction of explaining to IT Leads, Product Owners, and middle management why time is spent on security activities.
 
-**How**
+**方法 (How)**
 
 Setting up a Security Champion program requires a thorough analysis of the stakeholders to get the program approved and supported. The Head of IT, to whom the security champions report, is a key stakeholder. This can be the IT department doing Application Development, the IT Department doing Infrastructure Development, or both. Besides the Head of IT, if there is a Security or CISO department, management from that department is also a stakeholder as they set the direction of security and the Security organization. There are views that Security Champions are an extension of that Security Organization. Therefore, the manager of the Security Organization is a key stakeholder in securing management support for your security champions program. Another dimension to consider is when your vision of the security champion program states that being a security champion should be included in the job description of IT Engineers. It is advised to identify HR as a stakeholder. 
 
@@ -123,14 +123,14 @@ Please see [this artifact](assets/artefacts/security%20champions%20(updated).ppt
 <br>
 
 <p align="center">
-  <img src="assets/images/OWASP Security Champions Manifesto icon4.png" /><br>
+  <img src="https://raw.githubusercontent.com/OWASP/www-project-security-champions-guidebook/main/assets/images/OWASP%20Security%20Champions%20Manifesto%20icon4.png" /><br>
 </p>
-## 4. Nominate a dedicated captain ##
-**What**
+## 4. 専任のキャプテンを指名する ## <a name="4-nominate-a-dedicated-captain"></a>
+**内容 (What)**
 
 Ensure you have a dedicated Captain to lead the development, implementation and continuous success of a Security Champions Program. 
 
-**Why**
+**理由 (Why)**
 
 Having a dedicated Captain for a Security Champions Program is important to ensure that the program has a clear strategy and roadmap and is well-organized on a continuous basis. Lack of a dedicated role for this task may lead to people doing it “on the side” while our experience and research shows that building and maintaining a Security Champion program is one that requires continuous attention. 
 
@@ -151,7 +151,7 @@ A dedicated Captain can drive the overall success of the program by organizing e
 * Staying up-to-date on security practices:<br>
 A dedicated Captain can stay up-to-date on the latest information security practices and trends, and ensure that the Security Champions Program is aligned with industry best practices and incorporates this in the program roadmap. This ensures that the organization is well-prepared to handle any security threats that may arise.
 
-**How**
+**方法 (How)**
 
 The projects teams’ personal experience and interviews we have conducted with organizations that have Security Champions Programs have shown that leading a Security Champions program is a full-time job. In bigger organizations this may even require a small team. It is recommended to “nominate” or hire dedicated people that are passionate about this role and have the right skills set to drive it to ensure success. Having this as an “on the side job” takes away from the momentum and dedication needed to launch a successful program. Similarly, persons with security knowledge but lacking the right communication and organizational skills to drive such a program can be a factor in its lack of success. 
 
@@ -164,14 +164,14 @@ The projects teams’ personal experience and interviews we have conducted with 
 <br>
 
 <p align="center">
-  <img src="assets/images/OWASP Security Champions Manifesto icon5.png" /><br>
+  <img src="https://raw.githubusercontent.com/OWASP/www-project-security-champions-guidebook/main/assets/images/OWASP%20Security%20Champions%20Manifesto%20icon5.png" /><br>
 </p>
-## 5. Trust your champions ##
-**What**
+## 5. チャンピオンを信頼する ## <a name="5-trust-your-champions"></a>
+**内容 (What)**
 
 Trusting your champions is key to a successful Security Champions program. They are the eyes and ears of the organization and know exactly what their department’s security needs are.
 
-**Why**
+**理由 (Why)**
 
 The Security Champions are the experts in their working area. A security team can never achieve that level of knowledge of the applications as they are not involved in the operational work. Using their expertise to set up the Security Champions program will increase the likelihood of success.
 
@@ -181,7 +181,7 @@ Teams are more likely to trust their own champions as they are “one of their o
 
 In summary, trust is the glue that holds a Security Champions Program together.
 
-**How**
+**方法 (How)**
 
 Trust is all about setting clear expectations. It should be clear to everyone involved what the Security Champions’ role is about and what their mandate is. Don’t be afraid to let your champions experiment with different approaches. Their lessons learned can be a valuable input to other departments, sharing is caring!
 
@@ -198,18 +198,18 @@ Measure and showcase the impact that the Security Champions and the program make
 <br>
 
 <p align="center">
-  <img src="assets/images/OWASP Security Champions Manifesto icon6.png" /><br>
+  <img src="https://raw.githubusercontent.com/OWASP/www-project-security-champions-guidebook/main/assets/images/OWASP%20Security%20Champions%20Manifesto%20icon6.png" /><br>
 </p>
-## 6. Create a community ##
-**What**
+## 6. コミュニティを作成する ## <a name="6-create-a-community"></a>
+**内容 (What)**
 
 A community provides a platform for security champions to share knowledge, experiences, challenges, and best practices with each other. A community furthermore helps to foster a culture of security awareness, collaboration, and continuous learning among the security champions and their teams. A community can provide recognition, feedback, and support for the security champions.
 
-**Why**
+**理由 (Why)**
 
 Creating an active and vibrant community of Security Champions is vital to the success of any Security Champions Program and provides an additional channel to scale the security program.
 
-**How**
+**方法 (How)**
 
 To create a community for a security champions program, the following should be considered:
 
@@ -232,18 +232,18 @@ To create a community for a security champions program, the following should be 
 <br>
 
 <p align="center">
-  <img src="assets/images/OWASP Security Champions Manifesto icon7.png" /><br>
+  <img src="https://raw.githubusercontent.com/OWASP/www-project-security-champions-guidebook/main/assets/images/OWASP%20Security%20Champions%20Manifesto%20icon7.png" /><br>
 </p>
-## 7. Promote knowledge sharing ##
-**What**
+## 7. 知識の共有を促進する ## <a name="7-promote-knowledge-sharing"></a>
+**内容 (What)**
 
 Invest in the education of your Security Champions and encourage knowledge sharing within and outside the company.
 
-**Why**
+**理由 (Why)**
 
 Security and technology are continuously evolving. Keeping up with developments requires a mindset of continuously learning. As Security Champions are the security front-runners in their teams and departments they are naturally interested in security related topics and want to learn more. They also know exactly what’s needed to improve their teams. By sharing their knowledge they can improve people, processes and technology. Any feedback during the knowledge sharing sessions can give valuable insights and strengthen the whole community. Additionally, it also ensures the security team is aware of the technology used within the organization and the (security) challenge it incorporates.
 
-**How**
+**方法 (How)**
 
 Promote a knowledge sharing culture, this is a mindset that values and rewards knowledge sharing among employees. Formal training programs can be rolled out using existing sharing and learning strategies within the company when available. Informal knowledge sharing via lunch sessions and pizza evenings can also be very valuable. Combine this with internal & external events to trigger the interest of your employees but make sure to rotate the speakers and topics to attract the biggest audience. Keep in mind that development teams are more likely to connect to the Security Champions that share something that’s relevant to daily activities.
 
@@ -256,18 +256,18 @@ Gamification can be used to introduce a competitive element in the training and 
 <br>
 
 <p align="center">
-  <img src="assets/images/OWASP Security Champions Manifesto icon8.png" /><br>
+  <img src="https://raw.githubusercontent.com/OWASP/www-project-security-champions-guidebook/main/assets/images/OWASP%20Security%20Champions%20Manifesto%20icon8.png" /><br>
 </p>
-## 8. Reward responsibility ##
-**What**
+## 8. 責任に報いる ## <a name="8-reward-responsibility"></a>
+**内容 (What)**
 
 The principle of "Reward Responsibility" involves establishing a system within an organization to recognize and reward the efforts of Security Champions. This system is designed to encompass both tangible and intangible forms of recognition and rewards. It aims to acknowledge the contributions that Security Champions make in enhancing the security posture of the organization, including their dedication, innovations, and proactive measures in managing security-related issues.
 
-**Why**
+**理由 (Why)**
 
 Acknowledging and rewarding Security Champions is crucial for several reasons. Firstly, it serves as a significant motivator, encouraging continued enthusiasm and dedication in their roles. When individuals see their efforts being recognized, they are more likely to take ownership and be proactive in their security responsibilities. Additionally, a reward system contributes to the overall effectiveness of the Security Champions program by fostering a positive and encouraging environment. It also plays a key role in talent retention within the program, as it demonstrates the organization's appreciation and value for the commitment and efforts of its Security Champions.
 
-**How**
+**方法 (How)**
 
 To effectively implement this principle, organizations should develop a system that regularly recognizes the efforts of Security Champions. This could include setting up formal recognition programs, offering tangible rewards such as bonuses or professional development opportunities, and providing career advancement possibilities for effective champions. Additionally, regular feedback and expressions of appreciation are essential. Tailoring rewards to individual motivations is also key; some Champions might value public recognition, while others might appreciate personal development opportunities. The system should be designed to align with the organization's culture and policies, ensuring that it is meaningful and sustainable. Please refer to [The Star Model ™](https://www.jaygalbraith.com/services/star-model)or the [PDF](https://www.jaygalbraith.com/images/pdfs/StarModel.pdf) for more information on the theory of reward systems.
 
@@ -300,20 +300,20 @@ Design unique badges or pins that Security Champions can earn for reaching certa
 <br>
 
 <p align="center">
-  <img src="assets/images/OWASP Security Champions Manifesto icon9.png" /><br>
+  <img src="https://raw.githubusercontent.com/OWASP/www-project-security-champions-guidebook/main/assets/images/OWASP%20Security%20Champions%20Manifesto%20icon9.png" /><br>
 </p>
-## 9. Invest in your champions ##
-**What**
+## 9. チャンピオンに投資する ## <a name="9-invest-in-your-champions"></a>
+**内容 (What)**
 
 Invest in the personal growth and development of your Security Champions.
 
-**Why**
+**理由 (Why)**
 
 Security doesn't come for free and requires investments. These investments also show the organization that security is taken seriously and boost the morale of the Security Champions. Without proper investments, the security program and security culture can quickly degrade.
 
 Security Champions spend a lot of effort in learning, sharing and promoting security in the organization and play an important role in the security culture of a company. Don’t take the motivation of the Security Champions for granted. The organization should invest in them to make sure they feel appreciated and facilitate their development. This ensures the Security Champions community stays healthy and continues to drive the security program.
 
-**How**
+**方法 (How)**
 
 By formally allocating time for security activities the Security Champions can combine security work with their other responsibilities. This investment will increase the quality and reduce the amount of rework and incidents.
 
@@ -328,18 +328,18 @@ Introduce job titles/specialized roles to give recognition to the Security Champ
 <br>
 
 <p align="center">
-  <img src="assets/images/OWASP Security Champions Manifesto icon10.png" /><br>
+  <img src="https://raw.githubusercontent.com/OWASP/www-project-security-champions-guidebook/main/assets/images/OWASP%20Security%20Champions%20Manifesto%20icon10.png" /><br>
 </p>
-## 10. Anticipate personnel changes ##
-**What**
+## 10. 人事異動を予測する ## <a name="10-anticipate-personnel-changes"></a>
+**内容 (What)**
 
 The field of information security staffing has undergone significant changes over the last decade. The increased reliance on technology has made Information security skills essential in many industries, leading to a high demand for information security talent and a lot of job opportunities. This high demand and abundance of opportunities has impacted the turn-over rate of staff significantly and companies find it harder to retain information security talent. Therefore, organizations need to anticipate these personnel changes in their organization and their security champions program as they are unavoidable.
 
-**Why**
+**理由 (Why)**
 
 Placing too high of a demand on a limited number of individuals as Security Champions increases the risk of a Security Champions program failing when certain, key, individuals leave the organization or change role within the organization.. Organizations need to acknowledge that people will leave, and ensure this does not bring the continuity of their Security Champions program in danger. 
 
-**How**
+**方法 (How)**
 
 In order to ensure consistency and continuity in the Security Champions the following, complementary, recommendations can be made: 
 
@@ -352,5 +352,3 @@ In order to ensure consistency and continuity in the Security Champions the foll
 * Run a continuous training and educations program for security champions, this enables new joiners to grow into the role of Security Champion;
 
 * Do not adopt the 1 Champion - 1 team model but group champions based on specialism or type of technology, e.g. have a pool of security champions with an expertise on container security or API Security and use them as a liaison and knowledge base of their specific topic. Create collaborative working groups where knowledge is actively transferred. When one security champion then leaves the organization the rest of the group is able to “absorb the blow” of this person leaving. 
-
-
