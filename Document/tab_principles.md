@@ -29,21 +29,21 @@ tags: Champions
 
 **内容 (What)**
 
-Ensure the people involved in your security champion program are passionate about security. This passion helps to drive the program further and boost the security culture.
+セキュリティチャンピオンプログラムに関与する人員がセキュリティに情熱を注ぐようにします。この情熱はプログラムをさらに推進し、セキュリティ文化を高めるのに役立ちます。
 
 **理由 (Why)**
 
-Being passionate about security is crucial because it creates a mindset where security is not just a compliance requirement, but a fundamental part of how an organization operates. When employees are passionate about security, they are more likely to take ownership of security issues, be proactive about identifying potential risks, and advocate for security best practices throughout the organization.
+セキュリティについて情熱を注ぐことは非常に重要です。これはセキュリティが単なるコンプライアンス要件ではなく、組織運営の基本的な部分であるという考え方を生み出すためです。従業員がセキュリティに情熱を注げば、セキュリティ問題に責任を持ち、潜在的なリスクの特定に積極的に取り組み、組織全体でセキュリティのベストプラクティスを提唱するようになります。
 
 **方法 (How)**
 
-Promote security top down and on all levels within your organization. Show security is taken seriously by management and is a key element of the DNA of the company. Then explain the importance of the security champions program within your organization. It should be clear what the program brings and what is expected of the people involved. The employees with passion for security should naturally be attracted to the program and raise their voice. Start with recruiting those volunteers and avoid assigning security champions when possible. 
+トップダウンで組織内のすべてのレベルでセキュリティを推進します。経営陣がセキュリティに真剣に取り組み、会社の DNA の重要な要素であることを示します。次に、組織内でのセキュリティチャンピオンプログラムの重要性を説明します。このプログラムが何をもたらし、関係者に何を期待しているのかを明確にする必要があります。セキュリティに情熱を注ぐ従業員は自然とこのプログラムに魅力を感じ、声を上げるようになるはずです。そのようなボランティアを募集することから始め、可能な限りセキュリティチャンピオンを割り当てないようにします。
 
-Be sure to enable passionate champions and invest in keeping them onboard. Trigger their curiosity and offer opportunities to keep on growing no matter what level they are on. Ideally, they also drive the program forward and make sure it covers their needs.
+情熱を注ぐチャンピオンを育成し、確保することに投資するようにしてください。彼らの好奇心を刺激し、どのレベルにいても成長し続ける機会を提供します。理想的には、彼らがプログラムを推進し、それがニーズを満たすようにすることです。
 
-Don’t limit yourself to internal recruitment. Highlight the importance of security in your vacancies to attract passionate people that can boost the security culture. Ask candidates about their security experience and see if you can find that spark.
+社内公募に限定してはいけません。募集要項でセキュリティの重要性を強調し、セキュリティ文化を高めることができる情熱を注ぐ人材を惹きつけましょう。候補者にセキュリティの経験について尋ね、その才気を見つけられるかどうかを確認してください。
 
-There are lots of opportunities to spark the passion of security champions. [This checklist](assets/artefacts/Security%20Champions%20Guide%20%2D%20Be%20Passionate%20About%20Security%20%2D%20Checklist.pdf) can be used to discover possible touch points and opportunities to do so.
+セキュリティチャンピオンの情熱をかき立てる機会はたくさんあります。[このチェックリスト](https://raw.githubusercontent.com/OWASP/www-project-security-champions-guidebook/main/assets/artefacts/Security%20Champions%20Guide%20-%20Be%20Passionate%20About%20Security%20-%20Checklist.pdf) と使用して、そうするための可能性のある接点と機会を見つけることができます。
 
 <br>
 
