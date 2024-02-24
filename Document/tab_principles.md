@@ -58,30 +58,30 @@ tags: Champions
 
 **内容 (What)**
 
-A vision is defined as, “the act of power of imagination.”  When you apply vision to the future, you can create a mental picture that can be used to direct your and your organization’s actions toward achieving security. A vision of security champions program serves as a guide in achieving security in your organization and can be used to provide a sense of purpose for IT engineers doing security.
+ビジョンとは「想像力を働かせること」と定義されます。ビジョンを未来に当てはめると、セキュリティの実現に向けて自分や組織の行動を方向づけるために使用できる心象風景を描くことができます。セキュリティチャンピオンプログラムのビジョンは組織でセキュリティを実現する際のガイドとして機能し、セキュリティに携わる IT エンジニアに目的意識を持たせるために使用できます。
 
 **理由 (Why)**
 
-Having a vision is critical for your decision-making and the long-term success of your program. It gives your program purpose, and clearly articulates the ‘why’ and ‘what’ that you want to see happen and the change you want to achieve. Without a clear end goal or destination from the outset, it will be difficult to create meaningful goals and strategies and make effective decisions.
+ビジョンを持つことは意思決定とプログラムの長期的な成功に不可欠です。これにより、プログラムの目的が決まり、「なぜ」「何を」起こしたいのか、実現したい変化を明確に示します。最初から明確な最終目標や目的地がなければ、意味のある目標や戦略を立てて、効果的な意思決定を行うことが難しくなります。
 
-There are several angles for defining a vision for security champions. The most common angle is that of democratizing security knowledge in the development teams, removing dependencies on the central security team, and governing security in development teams.
+セキュリティチャンピオンのビジョンを定義するには、いくつかの観点があります。最も一般的な観点には、開発チームのセキュリティ知識の民主化、中央のセキュリティチームへの依存の排除、開発チームでのセキュリティの管理があります。
 
 **方法 (How)**
 
-A successful vision must be:
-* Imaginable:<br>
-Convey a clear picture of what the future will look like. Translating this to your security champions program, you can consider drawing a security operating model with the roles and responsibilities of the security champions, dev(ops) engineers, IT Leads, Product Owner, and security organizations.
-* Desirable:<br>
-Appeal to the long-term interest of those who have a stake in the
-Enterprise. Translating this to your security champions program, you should consider describing the benefits of embedding security in the development team through a security champion, with mandate, knowledge, and skills to do security.
-* Feasible:<br>
-Describe realistic and attainable goals. For your security champions program include goals like “hours spent on security by the champion”, “training objectives of the champion”, ” the number of security champions meet-ups”, “the decrease of security risk”,  etc.
-* Focused:<br>
-The vision should be clear enough to provide guidance in decision-making. What are the boundaries of security champions, what are commitments towards the program by senior management and what are expectations towards security champions? Is the scope of security champions to secure the entire enterprise? What is their role within the development team? What is their role compared to that of the Security Organization?
-* Communicable:<br>
-A vision is easy to communicate and can be explained quickly. Don’t write several pages of vision. A picture showing how security champions are enabling your goals in security and IT development will go a long way.
+成功するビジョンは以下でなければなりません。
+* 想像できること (Imaginable):<br>
+将来がどのようになるかを明確に伝えます。これをセキュリティチャンピオンプログラムに置き換えると、セキュリティチャンピオン、開発 (運用) エンジニア、IT リーダー、プロダクトオーナー、セキュリティ組織の役割と責任について、セキュリティ運用モデルを描くことが考えられます。
+* 魅力的であること (Desirable):<br>
+企業に利害関係を持つ人々に長期的な関心に訴求します。
+これをセキュリティチャンピオンプログラムに置き換えると、セキュリティを実行する権限、知識、スキルを備えたセキュリティチャンピオンを通じて、開発チームにセキュリティを組み込むことの利点について説明することを検討する必要があります。
+* 実現できること (Feasible):<br>
+現実的で達成可能な目標を記述します。セキュリティチャンピオンプログラムに「チャンピオンがセキュリティに費やす時間」、「チャンピオンのトレーニング目標」、「セキュリティチャンピオンミートアップの回数」、「セキュリティリスクの減少」などの目標を含めます。
+* 焦点を合わせること (Focused):<br>
+ビジョンは意思決定の指針となるよう十分に明確である必要があります。セキュリティチャンピオンの境界はどこですか？経営陣はこのプログラムにどのようなコミットメントをしますか？セキュリティチャンピオンに対してどのような期待をしますか？セキュリティチャンピオンのスコープは企業全体を保護することですか？開発チーム内でのセキュリティチャンピオンの役割は何ですか？セキュリティ組織の役割と比較して、セキュリティチャンピオンの役割は何ですか？
+* 伝播できること (Communicable):<br>
+ビジョンは伝播しやすく、迅速に説明できるようにします。ビジョンを何ページも書くことはありません。セキュリティチャンピオンがセキュリティと IT 開発者の目標をどのように実現するかを示す絵があれば大いに役立ちます。
 
-Please note that it is not advised to create your vision in isolation. By involving as many key stakeholders as possible, you’ll enable people to take greater ownership of the vision and increase commitment. Think about IT Leads, POs, senior developers, and security leaders to be part of this vision creation process. Once the vision is in a good draft, give it a try by explaining and selling to within your organization (senior management, developer community etc).
+ビジョンを単独で作成することはお勧めできないことに注意してください。できるだけ多くの主要な利害関係者を巻き込むことで、人々がビジョンに対してより主体性を持ち、コミットメントを高めることができます。IT リーダー、プロダクトオーナー、上級開発者、セキュリティリーダーがこのビジョン作成プロセスに参加することを考えてみましょう。ビジョンが優れた草案になったら、組織内 (経営陣、開発コミュニティなど) に説明して売り込んでみてください。
 
 <br>
 
