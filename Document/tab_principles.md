@@ -96,25 +96,25 @@ tags: Champions
 
 **内容 (What)**
 
-Ensure your security champion program is recognized as a formal program with a set purpose within your organization. This is achieved when you secure management support for the program.
+セキュリティチャンピオンプログラムが組織内で目的を定めた正式なプログラムとして認識されるようにします。これはプログラムに対する経営陣の支援を確保することで実現します。
 
 **理由 (Why)**
 
-A successful security champions program brings unmatchable security benefits to the table. It scales your security mindset and your security organization to the IT Department. Security Champions means that IT engineers are championing security. Doing so requires the IT department and other relevant departments to spend time, effort, and budget to create, nurture and enable the security champions. And this priority will conflict with other IT and Business priorities. Out of experience, we know that when priorities conflict, formalized priorities win the battle. Even the most passionate security champion will struggle to prioritize security over the expected workload. This can lead to frustrations within your security champions and will harm your security champions program.
+セキュリティチャンピオンプログラムを成功させることはセキュリティの比類ない恩恵があります。セキュリティの考え方とセキュリティ組織を IT 部門にまで拡大します。セキュリティチャンピオンとは、IT エンジニアがセキュリティを代弁することを意味します。そのためには IT 部門やその他の関連部門が時間、労力、予算を費やして、セキュリティチャンピオンを生み出し、育て、有能にする必要があります。そして、この優先事項は他の IT やビジネスの優先事項と競合します。経験上、優先事項が競合する場合、形式化された優先事項が勝利することを知っています。最も情熱を注ぐセキュリティチャンピオンであっても、期待されるワークロードよりもセキュリティを優先するのは難しいでしょう。これはセキュリティチャンピオンが不満を募らせ、セキュリティチャンピオンプログラムに悪影響を及ぼすことになるかもしれません。
 
-That is WHY we strongly advise securing management support for your security champion program. This makes the program a formalized priority for the IT Department and thus for the security champions. Security Champions can spend the needed time to improve security without the constant distraction of explaining to IT Leads, Product Owners, and middle management why time is spent on security activities.
+そのため、セキュリティチャンピオンプログラムに対する経営陣の支援を確保することを強くお勧めします。こうすることで、IT 部門ひいてはセキュリティチャンピオンにとってこのプログラムが正式な優先事項となります。セキュリティチャンピオンは、IT リーダー、プロダクトオーナー、中間管理職にセキュリティ活動に時間を費やす理由を絶えず説明することに煩わされることなく、セキュリティ向上に必要な時間を費やすことができます。
 
 **方法 (How)**
 
-Setting up a Security Champion program requires a thorough analysis of the stakeholders to get the program approved and supported. The Head of IT, to whom the security champions report, is a key stakeholder. This can be the IT department doing Application Development, the IT Department doing Infrastructure Development, or both. Besides the Head of IT, if there is a Security or CISO department, management from that department is also a stakeholder as they set the direction of security and the Security organization. There are views that Security Champions are an extension of that Security Organization. Therefore, the manager of the Security Organization is a key stakeholder in securing management support for your security champions program. Another dimension to consider is when your vision of the security champion program states that being a security champion should be included in the job description of IT Engineers. It is advised to identify HR as a stakeholder. 
+セキュリティチャンピオンプログラムをセットアップするには、プログラムの承認と支援を得るために利害関係者を徹底的に分析する必要があります。セキュリティチャンピオンが報告を受ける IT 責任者は主要な利害関係者です。これはアプリケーション開発を行う IT 部門となることも、インフラストラクチャ開発を行う IT 部門となることも、その両方となることもあります。IT 責任者のほかに、セキュリティ部門または CISO 部門がある場合には、その部門の管理者もセキュリティとセキュリティ組織の方向性を決定する利害関係者となります。セキュリティチャンピオンはセキュリティ組織の延長であるという見方もあります。したがって、セキュリティ組織のマネージャはセキュリティチャンピオンプログラムの経営陣の支援を確保する上での重要な利害関係者となります。考慮すべきもう一つの側面は、セキュリティチャンピオンプログラムのビジョンで、セキュリティチャンピオンであることが IT エンジニアの職務内容に含めるべきであるとしている場合です。その場合は人事部を利害関係者として特定することをお勧めします。
 
-Once the right stakeholders are identified, it is advised to understand what is essential for them and build your security champion program case around them. For the Head of IT, this would be in the direction of utilizing IT resources optimally, delivering IT fast and with adequate security/risk levels. For the Security Organization (CISO), what makes them tick is that security processes, expectations, and governance are embedded in the champion’s model and a clear articulation of the benefits of having such a Security Champions program on top of the existing organization. Per stakeholders, the benefits should be articulated, including addressing the potential risks they see for their objectives. 
+適切な利害関係者を特定したら、その利害関係者にとって何が不可欠かを理解し、それらを中心にセキュリティチャンピオンプログラムのケースを構築することをお勧めします。IT 責任者にとって、これは IT リソースを最適に活用し、適切なセキュリティ/リスクレベルで IT を迅速に提供するという方向になるでしょう。セキュリティ組織 (CISO) にとっては、セキュリティプロセス、期待、ガバナンスがチャンピオンのモデルに組み込まれており、既存の組織の上にそのようなセキュリティチャンピオンプログラムを導入する利点を明確に表現されていることが、魅力になります。利害関係者ごとに、目的に対して利害関係者が考える潜在的なリスクに対処することを含め、利点を明確に表現する必要があります。
 
-Finally, the proposal of the program should be approved by each identified stakeholder, making the program a formal program.
+最後に、プログラムの提案は特定された各利害関係者によって承認され、そのプログラムが正式なプログラムとなる必要があります。
 
-Please see [this artifact](assets/artefacts/security%20champions%20(updated).pptx) used by a financial company (bank) to build its case for formalizing the security champion program. 
+ある金融機関 (銀行) がセキュリティチャンピオンプログラムを正式化するケースを構築するために使用した [こちらの成果物](https://raw.githubusercontent.com/OWASP/www-project-security-champions-guidebook/main/assets/artefacts/security%20champions%20(updated).pptx) をご覧ください。
 
-(p.s. In the included artifacts, clear disclaimers are included of the organization's context and why re-consideration is needed when copying and pasting the model to the user’s organization).
+(追記 含まれる成果物には、組織のコンテキストと、ユーザーの組織にモデルをコピー＆ペーストする際に再検討が必要な理由についての明確な免責事項が含まれています。)
 
 <br>
 
