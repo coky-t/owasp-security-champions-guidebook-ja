@@ -128,34 +128,34 @@ tags: Champions
 ## 4. 専任のキャプテンを指名する ## <a name="4-nominate-a-dedicated-captain"></a>
 **内容 (What)**
 
-Ensure you have a dedicated Captain to lead the development, implementation and continuous success of a Security Champions Program. 
+セキュリティチャンピオンプログラムの開発、導入、継続的な成功をリードする専任のキャプテンを確保します。
 
 **理由 (Why)**
 
-Having a dedicated Captain for a Security Champions Program is important to ensure that the program has a clear strategy and roadmap and is well-organized on a continuous basis. Lack of a dedicated role for this task may lead to people doing it “on the side” while our experience and research shows that building and maintaining a Security Champion program is one that requires continuous attention. 
+セキュリティチャンピオンプログラムに専任のキャプテンを置くことは、プログラムに明確な戦略とロードマップがあり、継続的に適切に組織化されていることを確保するために重要です。このタスクを担当する専任の役割がないと、人員が「兼業」でこのタスクを行うことになるかもしれませんが、私たちの経験と調査によると、セキュリティチャンピオンプログラムの構築と維持には継続的な注意が必要です。
 
-Focus points for the dedicated Captain are: 
+専任のキャプテンの焦点は以下のとおりです。
 
-* Setting a clear strategy and roadmap for the Security Champions Program:<br>
-A dedicated Captain will create the strategy for the program and ensure this aligns with organizational goals and objectives. The dedicated captain furthermore can foster collaboration between security champions, other departments, and management to build a roadmap that is realistic and achievable. 
+* セキュリティチャンピオンプログラムの明確な戦略とロードマップを設定すること:<br>
+専任のキャプテンはプログラムの戦略を策定し、それが組織の目標や目的と合致することを確保します。さらに、専任のキャプテンはセキュリティチャンピオン、他の部門、経営陣の間の協力を促進して、現実的で達成可能なロードマップを構築できます。
 
-* Obtaining management support:<br>
-A dedicated Captain will work with management to obtain support and resources (e.g. financial resources, time of security champions) for the program, which is essential for its success. The captain will serve as the face of the program towards (senior) management and report to management on its success. 
+* 経営陣の支援を獲得すること:<br>
+専任のキャプテンは経営陣と協力して、プログラムの成功に不可欠な支援とリソース (金銭的リソース、セキュリティチャンピオンの時間など) を獲得します。キャプテンは (上級) 経営陣に対するプログラムの顔としての役割を果たし、その成功について経営陣に報告します。
 
-* Building and maintaining a community:<br>
-A dedicated Captain will build and maintain a community of security champions within the organization. This community can help promote a culture of security awareness and best practices, and provide a valuable resource for sharing knowledge and experiences. The community, furthermore, once it has reached a level of maturity can take on independent security tasks, releasing some of the burden placed on dedicated security staff. 
+* コミュニティを構築して維持すること:<br>
+専任のキャプテンは組織内にセキュリティチャンピオンのコミュニティを構築して維持します。このコミュニティはセキュリティ意識とベストプラクティスの文化を促進し、知識と経験を共有する貴重なリソースを提供するのに役立ちます。さらに、コミュニティが成熟したレベルに達すれば、独立したセキュリティタスクを引き受けることができ、専任のセキュリティスタッフにかかる負担の一部を解放します。
 
-* Driving success:<br>
-A dedicated Captain can drive the overall success of the program by organizing events, providing guidance and support to security champions, and ensuring that the program is effectively promoted throughout the organization.
+* 成功を推進すること:<br>
+専任のキャプテンはイベントを企画し、セキュリティチャンピオンに指導と支援を提供し、プログラムが組織全体で効果的に推進されるようにすることで、プログラム全体の成功を推進できます。
 
-* Staying up-to-date on security practices:<br>
-A dedicated Captain can stay up-to-date on the latest information security practices and trends, and ensure that the Security Champions Program is aligned with industry best practices and incorporates this in the program roadmap. This ensures that the organization is well-prepared to handle any security threats that may arise.
+* 最新のセキュリティプラクティスに取り組むこと:<br>
+専任のキャプテンは情報セキュリティに関する最新のプラクティスとトレンドを常に把握して、セキュリティチャンピオンプログラムが業界のベストプラクティスと合致し、これがプログラムロードマップに組み込まれていることを確保します。これにより、組織は発生する可能性があるセキュリティ脅威に対処するための十分な準備が整っていることを確保します。
 
 **方法 (How)**
 
-The projects teams’ personal experience and interviews we have conducted with organizations that have Security Champions Programs have shown that leading a Security Champions program is a full-time job. In bigger organizations this may even require a small team. It is recommended to “nominate” or hire dedicated people that are passionate about this role and have the right skills set to drive it to ensure success. Having this as an “on the side job” takes away from the momentum and dedication needed to launch a successful program. Similarly, persons with security knowledge but lacking the right communication and organizational skills to drive such a program can be a factor in its lack of success. 
+プロジェクトチームの個人的な経験や、セキュリティチャンピオンプログラムを実施している組織とのインタビューから、セキュリティチャンピオンプログラムを主導するのはフルタイムの仕事であることがわかりました。大規模な組織では、これは小規模なチームが必要になるかもしれません。成功するには、この役割に情熱を持ち、推進に適切なスキルセットを備えている専任の人員を「指名」するか雇用することをお勧めします。これを「兼業」としてしまうと、プログラムを成功させるために必要な勢いや専念が失われてしまいます。同様に、セキュリティの知識はあっても、そのようなプログラムを推進するための適切なコミュニケーションスキルや組織的スキルがかけている人も、そのプログラムが成功しない要因となる可能性があります。
 
-[This job vacancy](assets/artefacts/Security%20Champions%20Guide%20%2D%20Nominate%20a%20dedicated%20Captain%20%2D%20Job%20vacancy.pdf) can be used when looking to hire a dedicated Security Champion Captain.
+[この求人情報](https://raw.githubusercontent.com/OWASP/www-project-security-champions-guidebook/main/assets/artefacts/Security%20Champions%20Guide%20%2D%20Nominate%20a%20dedicated%20Captain%20%2D%20Job%20vacancy.pdf) は専任のセキュリティチャンピオンキャプテンを雇用する場合に使用できます。
 
 <br>
 
