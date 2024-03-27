@@ -169,27 +169,27 @@ tags: Champions
 ## 5. チャンピオンを信頼する ## <a name="5-trust-your-champions"></a>
 **内容 (What)**
 
-Trusting your champions is key to a successful Security Champions program. They are the eyes and ears of the organization and know exactly what their department’s security needs are.
+セキュリティチャンピオンプログラムの成功には、チャンピオンを信頼することが重要です。彼らは組織の目や耳であり、自部門のセキュリティニーズを正確に把握しています。
 
 **理由 (Why)**
 
-The Security Champions are the experts in their working area. A security team can never achieve that level of knowledge of the applications as they are not involved in the operational work. Using their expertise to set up the Security Champions program will increase the likelihood of success.
+セキュリティチャンピオンはその作業領域の専門家です。セキュリティチームは運用業務に関与していないため、アプリケーションに関する知識がそのレベルに達することはあり得ません。彼らの専門知識を活用して、セキュリティチャンピオンプログラムをセットアップすることで、成功の可能性が高まります。
 
-When making people responsible, it is key to allow them to understand and act according to the defined role. It will increase speed, but also increase involvement. Ideally the Security Champions co-own the program and strongly influence the direction and content. They can identify shortcomings and propose changes or give practical feedback on the matter.
+人員に責任を負わせる場合、重要なのは、定められた役割を理解し、それに基づいて行動できるようにすることです。そうすることで、スピードが上がるだけでなく、関与も増えます。理想的には、セキュリティチャンピオンがプログラムを共同所有し、方向性と内容に強い影響力を行使します。彼らは欠点を特定し、変更を提案したり、問題についての現実的なフィードバックを与えることができます。
 
-Teams are more likely to trust their own champions as they are “one of their own” and not an “outsider” from the Security Team. They speak the same language and understand the context. This will lead to more effective communication, better collaboration and reduced resistance to change.
+チームは、セキュリティチームからの「部外者」ではなく、「自分たちの仲間」である自分たちのチャンピオンを信頼する傾向があります。彼らは同じ言語を話し、背景を理解しています。このことは、より効果的なコミュニケーション、よりよいコラボレーション、変化に対する抵抗の軽減につながります。
 
-In summary, trust is the glue that holds a Security Champions Program together.
+要約すると、信頼はセキュリティチャンピオンプログラムをまとめる接着剤です。
 
 **方法 (How)**
 
-Trust is all about setting clear expectations. It should be clear to everyone involved what the Security Champions’ role is about and what their mandate is. Don’t be afraid to let your champions experiment with different approaches. Their lessons learned can be a valuable input to other departments, sharing is caring!
+信頼とは明確な期待を設定することです。セキュリティチャンピオンの役割とその権限が何であるかを関係者全員に明確にすべきです。チャンピオンにさまざまなアプローチを試みてもらうことを恐れてはいけません。彼らが学んだ教訓は他部門への貴重なインプットとなることでしょう。共有することは思いやりです。
 
-Give your Security Champions the mandate to make decisions on security within the risk appetite of your organization. By being in control and removing inefficiencies, they can add a lot of value to their teams and increase the security adoption & awareness. Do make sure they share their approach and reasoning to make sure the Security Champions can learn from each other and give constructive feedback.This way the organization can improve security related initiatives, decision making and processes..
+セキュリティチャンピオンに、組織のリスク許容度の範囲内でセキュリティに関する意思決定を行う権限を与えます。コントロールして非効率を取り除くことで、チームに大きな価値を付与し、セキュリティの導入と意識を高めることができます。セキュリティチャンピオンが互いから学び、建設的なフィードバックができるように、アプローチと理由を共有するようにしてください。そうすることで、組織はセキュリティに関連する取り組み、意思決定、プロセスを改善できます。
 
-Also involve the security champions in the processes of the core security team. Seek their input and opinions on security initiatives, policies, and practices to make them feel valued as active contributors. Use their feedback to improve the program, processes, and procedures.
+また、セキュリティチャンピオンをコアセキュリティチームのプロセスに参加させます。セキュリティの施策、方針、実務について意見や見解を求め、積極的な貢献者として評価されるようにします。彼らのフィードバックを活用して、プログラム、プロセス、手順を改善します。
 
-Measure and showcase the impact that the Security Champions and the program make. Demonstrate how their efforts have positively influenced security outcomes, highlighting the value they bring to the organization. This will build up the Security Champions’ trustworthiness and boost morale.
+セキュリティチャンピオンとプログラムがもたらす影響を評価し、披露します。彼らの取り組みがセキュリティの成果にどのような良い影響を与えたかを示し、組織にもたらす価値を強調します。そうすることで、セキュリティチャンピオンの信頼性を築き上げ、士気を高めます。
 
 <br>
 
