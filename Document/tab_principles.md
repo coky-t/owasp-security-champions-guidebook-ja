@@ -7,25 +7,25 @@ order: 2
 tags: Champions
 ---
 **セキュリティチャンピオンプログラムを成功させるための十大原則**
-1. [セキュリティに情熱を注ぐ](#1-be-passionate-about-security)
-2. [プログラムの明確なビジョンから開始する](#2-start-with-a-clear-vision-for-your-program)
-3. [経営陣の支援を確保する](#3-secure-management-support)
-4. [専任のキャプテンを指名する](#4-nominate-a-dedicated-captain)
-5. [チャンピオンを信頼する](#5-trust-your-champions)
-6. [コミュニティを作成する](#6-create-a-community)
-7. [知識の共有を促進する](#7-promote-knowledge-sharing)
-8. [責任に報いる](#8-reward-responsibility)
-9. [チャンピオンに投資する](#9-invest-in-your-champions)
-10. [人事異動を予測する](#10-anticipate-personnel-changes)
+1. [セキュリティに情熱を注ぐ](tab_principles.md#1-be-passionate-about-security)
+2. [プログラムの明確なビジョンから開始する](tab_principles.md#2-start-with-a-clear-vision-for-your-program)
+3. [経営陣の支援を確保する](tab_principles.md#3-secure-management-support)
+4. [専任のキャプテンを指名する](tab_principles.md#4-nominate-a-dedicated-captain)
+5. [チャンピオンを信頼する](tab_principles.md#5-trust-your-champions)
+6. [コミュニティを作成する](tab_principles.md#6-create-a-community)
+7. [知識の共有を促進する](tab_principles.md#7-promote-knowledge-sharing)
+8. [責任に報いる](tab_principles.md#8-reward-responsibility)
+9. [チャンピオンに投資する](tab_principles.md#9-invest-in-your-champions)
+10. [人事異動を予測する](tab_principles.md#10-anticipate-personnel-changes)
 
 ---
 
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OWASP/www-project-security-champions-guidebook/main/assets/images/OWASP%20Security%20Champions%20Manifesto%20icon1.png" /><br>
-</p>
-## 1. セキュリティに情熱を注ぐ ## <a name="1-be-passionate-about-security"></a>
+  <img src="https://raw.githubusercontent.com/OWASP/www-project-security-champions-guidebook/main/assets/images/OWASP%20Security%20Champions%20Manifesto%20icon1.png" /><br></p>
+
+## 1. セキュリティに情熱を注ぐ <a name="1-be-passionate-about-security"></a>
 
 **内容 (What)**
 
@@ -52,9 +52,9 @@ tags: Champions
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OWASP/www-project-security-champions-guidebook/main/assets/images/OWASP%20Security%20Champions%20Manifesto%20icon2.png" /><br>
-</p>
-## 2. プログラムの明確なビジョンから開始する ## <a name="2-start-with-a-clear-vision-for-your-program"></a>
+  <img src="https://raw.githubusercontent.com/OWASP/www-project-security-champions-guidebook/main/assets/images/OWASP%20Security%20Champions%20Manifesto%20icon2.png" /><br></p>
+
+## 2. プログラムの明確なビジョンから開始する <a name="2-start-with-a-clear-vision-for-your-program"></a>
 
 **内容 (What)**
 
@@ -90,9 +90,9 @@ tags: Champions
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OWASP/www-project-security-champions-guidebook/main/assets/images/OWASP%20Security%20Champions%20Manifesto%20icon3.png" /><br>
-</p>
-## 3. 経営陣の支援を確保する ## <a name="3-secure-management-support"></a>
+  <img src="https://raw.githubusercontent.com/OWASP/www-project-security-champions-guidebook/main/assets/images/OWASP%20Security%20Champions%20Manifesto%20icon3.png" /><br></p>
+
+## 3. 経営陣の支援を確保する <a name="3-secure-management-support"></a>
 
 **内容 (What)**
 
@@ -123,9 +123,9 @@ tags: Champions
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OWASP/www-project-security-champions-guidebook/main/assets/images/OWASP%20Security%20Champions%20Manifesto%20icon4.png" /><br>
-</p>
-## 4. 専任のキャプテンを指名する ## <a name="4-nominate-a-dedicated-captain"></a>
+  <img src="https://raw.githubusercontent.com/OWASP/www-project-security-champions-guidebook/main/assets/images/OWASP%20Security%20Champions%20Manifesto%20icon4.png" /><br></p>
+
+## 4. 専任のキャプテンを指名する <a name="4-nominate-a-dedicated-captain"></a>
 **内容 (What)**
 
 セキュリティチャンピオンプログラムの開発、導入、継続的な成功をリードする専任のキャプテンを確保します。
@@ -164,9 +164,9 @@ tags: Champions
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OWASP/www-project-security-champions-guidebook/main/assets/images/OWASP%20Security%20Champions%20Manifesto%20icon5.png" /><br>
-</p>
-## 5. チャンピオンを信頼する ## <a name="5-trust-your-champions"></a>
+  <img src="https://raw.githubusercontent.com/OWASP/www-project-security-champions-guidebook/main/assets/images/OWASP%20Security%20Champions%20Manifesto%20icon5.png" /><br></p>
+
+## 5. チャンピオンを信頼する <a name="5-trust-your-champions"></a>
 **内容 (What)**
 
 セキュリティチャンピオンプログラムの成功には、チャンピオンを信頼することが重要です。彼らは組織の目や耳であり、自部門のセキュリティニーズを正確に把握しています。
@@ -198,9 +198,9 @@ tags: Champions
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OWASP/www-project-security-champions-guidebook/main/assets/images/OWASP%20Security%20Champions%20Manifesto%20icon6.png" /><br>
-</p>
-## 6. コミュニティを作成する ## <a name="6-create-a-community"></a>
+  <img src="https://raw.githubusercontent.com/OWASP/www-project-security-champions-guidebook/main/assets/images/OWASP%20Security%20Champions%20Manifesto%20icon6.png" /><br></p>
+
+## 6. コミュニティを作成する <a name="6-create-a-community"></a>
 **内容 (What)**
 
 コミュニティはセキュリティチャンピオンが相互に知識、経験、課題、ベストプラクティスを共有するためのプラットフォームを提供します。さらに、コミュニティはセキュリティチャンピオンとそのチームの間でのセキュリティ意識、コラボレーション、継続的学習の文化を醸成するのに役立ちます。コミュニティはセキュリティチャンピオンに対する評価、フィードバック、サポートを提供できます。
@@ -232,9 +232,9 @@ tags: Champions
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OWASP/www-project-security-champions-guidebook/main/assets/images/OWASP%20Security%20Champions%20Manifesto%20icon7.png" /><br>
-</p>
-## 7. 知識の共有を促進する ## <a name="7-promote-knowledge-sharing"></a>
+  <img src="https://raw.githubusercontent.com/OWASP/www-project-security-champions-guidebook/main/assets/images/OWASP%20Security%20Champions%20Manifesto%20icon7.png" /><br></p>
+
+## 7. 知識の共有を促進する <a name="7-promote-knowledge-sharing"></a>
 **内容 (What)**
 
 Invest in the education of your Security Champions and encourage knowledge sharing within and outside the company.
@@ -256,9 +256,9 @@ Gamification can be used to introduce a competitive element in the training and 
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OWASP/www-project-security-champions-guidebook/main/assets/images/OWASP%20Security%20Champions%20Manifesto%20icon8.png" /><br>
-</p>
-## 8. 責任に報いる ## <a name="8-reward-responsibility"></a>
+  <img src="https://raw.githubusercontent.com/OWASP/www-project-security-champions-guidebook/main/assets/images/OWASP%20Security%20Champions%20Manifesto%20icon8.png" /><br></p>
+
+## 8. 責任に報いる <a name="8-reward-responsibility"></a>
 **内容 (What)**
 
 The principle of "Reward Responsibility" involves establishing a system within an organization to recognize and reward the efforts of Security Champions. This system is designed to encompass both tangible and intangible forms of recognition and rewards. It aims to acknowledge the contributions that Security Champions make in enhancing the security posture of the organization, including their dedication, innovations, and proactive measures in managing security-related issues.
@@ -300,9 +300,9 @@ Design unique badges or pins that Security Champions can earn for reaching certa
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OWASP/www-project-security-champions-guidebook/main/assets/images/OWASP%20Security%20Champions%20Manifesto%20icon9.png" /><br>
-</p>
-## 9. チャンピオンに投資する ## <a name="9-invest-in-your-champions"></a>
+  <img src="https://raw.githubusercontent.com/OWASP/www-project-security-champions-guidebook/main/assets/images/OWASP%20Security%20Champions%20Manifesto%20icon9.png" /><br></p>
+
+## 9. チャンピオンに投資する <a name="9-invest-in-your-champions"></a>
 **内容 (What)**
 
 Invest in the personal growth and development of your Security Champions.
@@ -328,9 +328,9 @@ Introduce job titles/specialized roles to give recognition to the Security Champ
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OWASP/www-project-security-champions-guidebook/main/assets/images/OWASP%20Security%20Champions%20Manifesto%20icon10.png" /><br>
-</p>
-## 10. 人事異動を予測する ## <a name="10-anticipate-personnel-changes"></a>
+  <img src="https://raw.githubusercontent.com/OWASP/www-project-security-champions-guidebook/main/assets/images/OWASP%20Security%20Champions%20Manifesto%20icon10.png" /><br></p>
+
+## 10. 人事異動を予測する <a name="10-anticipate-personnel-changes"></a>
 **内容 (What)**
 
 The field of information security staffing has undergone significant changes over the last decade. The increased reliance on technology has made Information security skills essential in many industries, leading to a high demand for information security talent and a lot of job opportunities. This high demand and abundance of opportunities has impacted the turn-over rate of staff significantly and companies find it harder to retain information security talent. Therefore, organizations need to anticipate these personnel changes in their organization and their security champions program as they are unavoidable.
