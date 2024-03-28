@@ -203,27 +203,27 @@ tags: Champions
 ## 6. コミュニティを作成する ## <a name="6-create-a-community"></a>
 **内容 (What)**
 
-A community provides a platform for security champions to share knowledge, experiences, challenges, and best practices with each other. A community furthermore helps to foster a culture of security awareness, collaboration, and continuous learning among the security champions and their teams. A community can provide recognition, feedback, and support for the security champions.
+コミュニティはセキュリティチャンピオンが相互に知識、経験、課題、ベストプラクティスを共有するためのプラットフォームを提供します。さらに、コミュニティはセキュリティチャンピオンとそのチームの間でのセキュリティ意識、コラボレーション、継続的学習の文化を醸成するのに役立ちます。コミュニティはセキュリティチャンピオンに対する評価、フィードバック、サポートを提供できます。
 
 **理由 (Why)**
 
-Creating an active and vibrant community of Security Champions is vital to the success of any Security Champions Program and provides an additional channel to scale the security program.
+セキュリティチャンピオンのアクティブで活気に満ちたコミュニティを形成することは、セキュリティチャンピオンプログラムの成功に不可欠であり、セキュリティプログラムを拡大するためのさらなるチャネルを提供します。
 
 **方法 (How)**
 
-To create a community for a security champions program, the following should be considered:
+セキュリティチャンピオンプログラムのためのコミュニティを形成するには、以下を考慮すべきです。
 
-* Start by defining a clear purpose, goals, and scope of the community. This should be aligned with the vision of the security champion’s program (see pillar 2). What are the expected outcomes and benefits of the community? Define measurable success criteria and appoint a person to continuously monitor the status of success in the community. This can be the dedicated captain or one of his/her team members in case the security champions program is led by multiple individuals.
+* まず、コミュニティの目的、目標、範囲を明確に定義することから始めます。これはセキュリティチャンピオンのプログラムのビジョン (原則 2 を参照) と合致させるべきです。コミュニティに期待する成果や利点は何ですか？測定可能な成功基準を定義し、コミュニティの成功状況を継続的に監視する担当者を任命します。これは専任のキャプテンか、セキュリティチャンピオンプログラムが複数の個人で主導されている場合にはそのチームメンバーの一人がよいでしょう。
 
-* Define how the community will align with the organization’s security strategy and objectives. The dedicated captain and/or some champions will attend security strategy update sessions, or security executives will provide periodic updates in the security champions' community on strategy and execution.
- 
-*	Establish regular communication and collaboration channels for the security champions to interact with each other and with the security team. This can include online forums, chat groups, mailing lists, social media platforms, shared workspaces that allow the security champions to ask questions, share ideas, discuss issues, provide feedback, etc.
+* コミュニティが組織のセキュリティ戦略および目標とどのように連携するかを定義します。専任のキャプテンや一部のチャンピオンがセキュリティ戦略の更新セッションに参加するか、セキュリティ担当幹部がセキュリティチャンピオンのコミュニティで戦略と実行に関する定期的な更新を提供します。
 
-*	Organize periodic events and activities for the security champions to engage with the community and learn from each other. This can include meetups, hackathons, workshops, presentations, demos, games, quizzes, etc. that showcase security projects, achievements, challenges, solutions, etc.
+* セキュリティチャンピオンが互いやセキュリティチームとやり取りできるように、定期的なコミュニケーションとコラボレーションチャネルを確立します。これには、セキュリティチャンピオンが質問をしたり、アイデアを共有したり、問題を話し合ったり、フィードバックを提供できる、オンラインフォーラム、チャットグループ、メーリングリスト、ソーシャルメディアプラットフォーム、共有ワークスペースなどがあります。
 
-* Recognize and reward the security champions for their contributions and achievements. This can include certificates, badges, trophies, prizes, opportunities to speak about security topics in the name of the organization, etc. to acknowledge and appreciate the security champions’ efforts and impact on improving security in the organization. Refer to pillar 8 for more details. 
+* セキュリティチャンピオンがコミュニティと交流し、互いに学びあうためのイベントや活動を定期的に開催します。これには、セキュリティプロジェクト、成果、課題、ソリューションなどを紹介する、ミートアップ、ハッカソン、ワークショップ、プレゼンテーション、デモ、ゲーム、クイズなどがあります。
 
-* Provide group training opportunities to foster the sense of community and encourage security champions to learn from each other. A security champion with a lot of knowledge in a specific area can serve as a teacher to others in the community. They can develop (online) courses, workshops, webinars, podcasts, newsletters, blogs, etc for the security champions community. The dedicated captain has a big role in enabling this and providing the resources necessary to achieve this.
+* セキュリティチャンピオンの貢献と成果を表彰して報奨を与えます。これには、賞状、バッジ、トロフィー、賞品、組織の名前でセキュリティトピックについて講演する機会などがあり、組織のセキュリティ向上へのセキュリティチャンピオンの成果と影響を認めて評価します。詳細については原則 8 を参照してください。
+
+* グループトレーニングの機会を提供して、コミュニティ意識を育み、セキュリティチャンピオンが互いに学び合うことを奨励します。特定の分野で豊富な知識を持つセキュリティチャンピオンはコミュニティ内の他の人にとって指導する役割を果たすことができます。セキュリティチャンピオンコミュニティ向けに (オンライン) コース、ワークショップ、ウェビナー、ポッドキャスト、ニュースレター、ブログなどを展開できます。これを可能にし、これを達成するために必要なリソースを提供する上で、専任のキャプテンは大きな役割を果たします。
 
 <br>
 
