@@ -237,17 +237,17 @@ tags: Champions
 ## 7. 知識の共有を促進する <a name="7-promote-knowledge-sharing"></a>
 **内容 (What)**
 
-Invest in the education of your Security Champions and encourage knowledge sharing within and outside the company.
+セキュリティチャンピオンの教育に投資し、社内外での知識の共有を奨励します。
 
 **理由 (Why)**
 
-Security and technology are continuously evolving. Keeping up with developments requires a mindset of continuously learning. As Security Champions are the security front-runners in their teams and departments they are naturally interested in security related topics and want to learn more. They also know exactly what’s needed to improve their teams. By sharing their knowledge they can improve people, processes and technology. Any feedback during the knowledge sharing sessions can give valuable insights and strengthen the whole community. Additionally, it also ensures the security team is aware of the technology used within the organization and the (security) challenge it incorporates.
+セキュリティとテクノロジは絶えず進化しています。進化に遅れずについていくには、常に学習し続けるというマインドセットが必要です。セキュリティチャンピオンはチームや部門におけるセキュリティのフロントランナーであるため、当然ながらセキュリティ関連のトピックに関心を持ち、さらに詳しく知りたいと考えています。また、チームを改善するために何が必要かもよく知っています。知識を共有することで、人員、プロセス、テクノロジを向上できます。知識共有セッションの中でのフィードバックは貴重な知見が得られ、コミュニティ全体を強化できます。さらに、セキュリティチームが組織内で使用されているテクノロジとそれに組み込まれている (セキュリティ上の) 課題を確実に認識することもできます。
 
 **方法 (How)**
 
-Promote a knowledge sharing culture, this is a mindset that values and rewards knowledge sharing among employees. Formal training programs can be rolled out using existing sharing and learning strategies within the company when available. Informal knowledge sharing via lunch sessions and pizza evenings can also be very valuable. Combine this with internal & external events to trigger the interest of your employees but make sure to rotate the speakers and topics to attract the biggest audience. Keep in mind that development teams are more likely to connect to the Security Champions that share something that’s relevant to daily activities.
+知識共有の文化を推進します。これは従業員間の知識共通を大切にして報いるマインドセットです。正式なトレーニングプログラムは、利用可能であれば、社内の既存の共有および学習の戦略を使用して展開できます。ランチセッションやピザイブニングを通じた非公式な知識共有も非常に価値があります。これを社内外のイベントと組み合わせることで、従業員の興味を引き付けますが、最大限に聴衆を引き付けるように講演者やトピックを交替するようにします。開発チームは日常業務に関連する内容を共有するセキュリティチャンピオンとつながりを持とうとすることに留意します。
 
-Gamification can be used to introduce a competitive element in the training and sharing knowledge. Capture the flag events are a great way to trigger the curiosity of your development teams.
+ゲーミフィケーションを使用して、トレーニングや知識の共有に競争的な要素を取り入れられます。Capture the flag イベントは開発チームの好奇心を刺激する素晴らしい方法です。
 
 <br>
 
