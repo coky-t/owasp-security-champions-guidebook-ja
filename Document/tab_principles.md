@@ -261,37 +261,37 @@ tags: Champions
 ## 8. 責任に報いる <a name="8-reward-responsibility"></a>
 **内容 (What)**
 
-The principle of "Reward Responsibility" involves establishing a system within an organization to recognize and reward the efforts of Security Champions. This system is designed to encompass both tangible and intangible forms of recognition and rewards. It aims to acknowledge the contributions that Security Champions make in enhancing the security posture of the organization, including their dedication, innovations, and proactive measures in managing security-related issues.
+「責任に報いる」の原則は、セキュリティチャンピオンの成果を表彰し、報奨を与えるシステムを組織内に確立することです。このシステムは有形および無形の表彰と報奨を包含するように設計されています。これはセキュリティ関連の問題の管理における献身、革新、先を見越した対策など、組織のセキュリティ態勢の強化におけるセキュリティチャンピオンの貢献を表彰することを目的としています。
 
 **理由 (Why)**
 
-Acknowledging and rewarding Security Champions is crucial for several reasons. Firstly, it serves as a significant motivator, encouraging continued enthusiasm and dedication in their roles. When individuals see their efforts being recognized, they are more likely to take ownership and be proactive in their security responsibilities. Additionally, a reward system contributes to the overall effectiveness of the Security Champions program by fostering a positive and encouraging environment. It also plays a key role in talent retention within the program, as it demonstrates the organization's appreciation and value for the commitment and efforts of its Security Champions.
+セキュリティチャンピオンを表彰して報奨を与えることは、いくつかの理由から極めて重要です。第一に、それは重大な動機付けとなり、その役割に対する継続的な熱意と献身を促します。自分の成果が表彰されることが分かれば、その人は主体性を持ち、セキュリティの責任に積極的に取り組むようになります。さらに、報奨システムは前向きで励みになる環境を醸成することで、セキュリティチャンピオンプログラムの全体的な有効性にも貢献します。また、セキュリティチャンピオンのコミットメントと成果に対する組織の評価と価値を示すため、プログラム内の人材留保にも重要な役割を果たします。
 
 **方法 (How)**
 
-To effectively implement this principle, organizations should develop a system that regularly recognizes the efforts of Security Champions. This could include setting up formal recognition programs, offering tangible rewards such as bonuses or professional development opportunities, and providing career advancement possibilities for effective champions. Additionally, regular feedback and expressions of appreciation are essential. Tailoring rewards to individual motivations is also key; some Champions might value public recognition, while others might appreciate personal development opportunities. The system should be designed to align with the organization's culture and policies, ensuring that it is meaningful and sustainable. Please refer to [The Star Model ™](https://www.jaygalbraith.com/services/star-model)or the [PDF](https://www.jaygalbraith.com/images/pdfs/StarModel.pdf) for more information on the theory of reward systems.
+この原則を効果的に実施するには、組織はセキュリティチャンピオンの成果を定期的に表彰するシステムを構築すべきです。これには、正式な表彰プログラムの設定、賞与や専門能力開発の機会などの具体的な報酬の提供、有能なチャンピオンに対するキャリアアップの可能性の提供などがあります。さらに、定期的なフィードバックと感謝の表明が不可欠です。個人のモチベーションに合わせて報酬を調整することも重要です。あるチャンピオンは公的な表彰を重視するかもしれませんし、別の方は自己啓発の機会を重視するかもしれません。システムは組織の文化や方針に合わせて設計すべきであり、有意義で持続可能なようにします。報奨システムの理論の詳細については [The Star Model ™](https://www.jaygalbraith.com/services/star-model) や [PDF](https://www.jaygalbraith.com/images/pdfs/StarModel.pdf) をご覧ください。
 
-Supporting Artifacts:
-* Recognition Certificate Templates:<br>
-Create customizable certificate templates to formally recognize the contributions of Security Champions. These certificates can be awarded for various achievements, like leading a successful security initiative, completing a significant amount of training, or significantly improving the security posture of a project.
+サポート用アーティファクト:
+* 表彰状テンプレート:<br>
+カスタマイズ可能な賞状テンプレートを作成し、セキュリティチャンピオンの貢献を正式に表彰します。これらの賞状は、セキュリティイニシアチブの成功へのリード、大量のトレーニングの完了、プロジェクトセキュリティ態勢の大幅な改善など、さまざまな功績に対して贈ります。
 
-* Security Champion of the Month/Quarter/Year Award:<br>
-Implement a periodic award program where Security Champions are nominated and selected for their outstanding contributions. This could include a physical trophy, certificate, or digital badge.
+* 月間/四半期/年間のセキュリティチャンピオン賞:<br>
+優れた貢献に対してセキュリティチャンピオンがノミネートおよび選出される定期的な表彰プログラムを実施します。これには、物理的なトロフィー、賞状、デジタルバッジなどがあります。
 
-* Performance Dashboard:<br>
-Develop a dashboard that tracks and displays the contributions and achievements of each Security Champion. This could include metrics like issues resolved, training completed, or initiatives led. The dashboard can be used to identify candidates for rewards and recognition, in the form of gamification like security quizzes, etc.
+* パフォーマンスダッシュボード:<br>
+各セキュリティチャンピオンの貢献と成果を追跡して表示するダッシュボードを作成します。これには、解決した問題、完了したトレーニング、主導したイニシアチブなどの指標を含めることができます。ダッシュボードはセキュリティクイズなどのゲーミフィケーションの形で、報奨や表彰の候補者を特定するために使用できます。
 
-* Personal Development Plan Template:<br>
-Offer a template for Security Champions to create their personal development plans. This plan can include their career goals, desired skills to acquire, and steps to achieve these goals, aligning with the organization’s opportunities for career advancement.
+* 自己啓発計画テンプレート:<br>
+セキュリティチャンピオンが自己啓発計画を作成するためのテンプレートを提供します。この計画には、組織のキャリアアップの機会に合わせて、キャリア目標、習得したいスキル、その目標を達成するためのステップを含めることができます。
 
-* Feedback and Endorsement Forms:<br>
-Create forms or systems for team members and managers to provide feedback or endorse Security Champions for their efforts. This feedback can be used as part of the evaluation process for awards and recognitions.
+* フィードバックフォームおよび支持フォーム:<br>
+チームメンバーやマネージャーがセキュリティチャンピオンの成果に対してフィードバックや支持を提供するフォームやシステムを作成します。このフィードバックは賞や表彰の評価プロセスの一部として使用できます。
 
-* Event Sponsorship Policy:<br>
-Create a policy or artifact detailing how Security Champions can be sponsored to attend relevant conferences, workshops, or training events. This not only rewards them but also contributes to their professional growth.
+* イベントスポンサーシップポリシー:<br>
+セキュリティチャンピオンが関連するカンファレンス、ワークショップ、トレーニングイベントに参加するためのスポンサーとなる方法を詳述するポリシーやアーティファクトを作成します。これは報奨を与えるだけでなく、専門家としての成長にも寄与します。
 
-* Milestone Badges or Pins:<br>
-Design unique badges or pins that Security Champions can earn for reaching certain milestones or achievements. These can be physical items or digital badges for email signatures or internal profiles. Upon achieving specific badges, Security Champions can earn extended privileges like a mandate to review specific security policies, or a mandate to decide on specific risks or be part of security committees, etc.
+* マイルストーンのバッジまたはピン:<br>
+セキュリティチャンピオンが特定のマイルストーンや功績を達成すると獲得できるユニークなバッジやピンをデザインします。これらは物理的なアイテムでも、電子メールの署名や社内プロファイル用のデジタルバッジでも可能です。特定のバッジを獲得すると、セキュリティチャンピオンは、特定のセキュリティポリシーをレビューする権限、特定のリスクを決定する権限、セキュリティ委員会の一員になる権限など、拡大した権限を獲得できます。
 
 <br>
 
