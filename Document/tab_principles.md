@@ -333,22 +333,22 @@ tags: Champions
 ## 10. 人事異動を予測する <a name="10-anticipate-personnel-changes"></a>
 **内容 (What)**
 
-The field of information security staffing has undergone significant changes over the last decade. The increased reliance on technology has made Information security skills essential in many industries, leading to a high demand for information security talent and a lot of job opportunities. This high demand and abundance of opportunities has impacted the turn-over rate of staff significantly and companies find it harder to retain information security talent. Therefore, organizations need to anticipate these personnel changes in their organization and their security champions program as they are unavoidable.
+情報セキュリティ人材の分野はこの十年間で大きな変化を遂げています。テクノロジへの依存度が高まったことで、多くの業界で情報セキュリティスキルが不可欠となり、情報セキュリティ人材に対する需要が高まり、多くの雇用機会が生まれています。このような高い需要と豊富な求人が従業員の離職率に大きな影響を与えており、企業は情報セキュリティ人材を維持することが困難になっています。そのため、組織やセキュリティチャンピオンプログラムにおけるこのような人事異動はさけられないものであるため、組織はそれを予期しておく必要があります。
 
 **理由 (Why)**
 
-Placing too high of a demand on a limited number of individuals as Security Champions increases the risk of a Security Champions program failing when certain, key, individuals leave the organization or change role within the organization.. Organizations need to acknowledge that people will leave, and ensure this does not bring the continuity of their Security Champions program in danger. 
+セキュリティチャンピオンとして限られた数の個人に過度な要求を課すと、特定の重要な個人が組織を離れたり、組織内の役割を変更する際に、セキュリティチャンピオンプログラムが失敗するリスクが高まります。組織は人員が離職することを認識する必要があり、それによってセキュリティチャンピオンプログラムの継続性が危険にさらされないようにします。
 
 **方法 (How)**
 
-In order to ensure consistency and continuity in the Security Champions the following, complementary, recommendations can be made: 
+セキュリティチャンピオンの一貫性と継続性を確保するために、以下のような補完的な推奨事項を行うことができます。
 
-* Have a reasonable ratio of champions to developers (e.g. 1 champion per 25 developers for large organizations);
+* 開発者に対してチャンピオンの割合を適切にします (たとえば、大規模な組織では、開発者 25 人あたりチャンピオン 1 人)。
 
-* Implement a T-shaped model for DevOps engineers, this means personnel possess a solid foundation in both development and operations, while also having the ability to contribute to other areas such as security (or automation, testing, etc). Reward personnel financially for their “additional” skill.  This is further highlighted in Principles 8 & 9. 
+* DevOps エンジニアに T 字型モデルを導入します。これは、人員が開発と運用の両方で強固な基盤を備えていると同時に、セキュリティ (または自動化、テストなど) のような他の分野にも貢献できる能力も持つことを意味します。人員の「追加」スキルに対して金銭的な報奨を与えます。これは原則 8 と 9 で特に注目しています。
 
-* Ensure it is an officially recognized position in the organization and align with HR to adapt the recruitment & selection process towards hiring Security Champions; 
+* 組織内で正式に認められたポジションであることを確保し、人事部門と連携してセキュリティチャンピオンの雇用に向けた採用と選考を調整します。
 
-* Run a continuous training and educations program for security champions, this enables new joiners to grow into the role of Security Champion;
+* セキュリティチャンピオン向けの継続的なトレーニングおよび教育プログラムを実施することで、新人がセキュリティチャンピオンの役割に成長できるようになります。
 
-* Do not adopt the 1 Champion - 1 team model but group champions based on specialism or type of technology, e.g. have a pool of security champions with an expertise on container security or API Security and use them as a liaison and knowledge base of their specific topic. Create collaborative working groups where knowledge is actively transferred. When one security champion then leaves the organization the rest of the group is able to “absorb the blow” of this person leaving. 
+* 1 チャンピオン 1 チームモデルを採用せず、専門分野やテクノロジの種類に応じてチャンピオンをグループ化します。たとえば、コンテナセキュリティや API セキュリティに関する専門知識を有するセキュリティチャンピオンを集め、彼らを特定のトピックの連絡役や知識ベースとして活用します。知識が積極的に移転されるように、共同作業グループを作成します。セキュリティチャンピオンの一人が組織を離れても、グループの他のメンバーがその人の離職による「打撃を吸収」できます。
