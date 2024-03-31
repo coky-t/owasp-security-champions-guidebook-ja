@@ -305,21 +305,21 @@ tags: Champions
 ## 9. チャンピオンに投資する <a name="9-invest-in-your-champions"></a>
 **内容 (What)**
 
-Invest in the personal growth and development of your Security Champions.
+セキュリティチャンピオンの自己成長と能力開発に投資します。
 
 **理由 (Why)**
 
-Security doesn't come for free and requires investments. These investments also show the organization that security is taken seriously and boost the morale of the Security Champions. Without proper investments, the security program and security culture can quickly degrade.
+セキュリティはタダで手に入るものではなく投資が必要です。また、こうした投資は組織がセキュリティを真剣に取り組んでいることを示し、セキュリティチャンピオンの士気を高めます。適切な投資がなければ、セキュリティプログラムとセキュリティ文化は急速に衰退するでしょう。
 
-Security Champions spend a lot of effort in learning, sharing and promoting security in the organization and play an important role in the security culture of a company. Don’t take the motivation of the Security Champions for granted. The organization should invest in them to make sure they feel appreciated and facilitate their development. This ensures the Security Champions community stays healthy and continues to drive the security program.
+セキュリティチャンピオンは組織におけるセキュリティの学習、共有、推進に多くの労力を費やしており、企業のセキュリティ文化において重要な役割を果たします。セキュリティチャンピオンのモチベーションを当然のものと考えてはいけません。組織は彼らを評価していることを感じられるようにし、成長を促進するために投資すべきです。これにより、セキュリティチャンピオンコミュニティが健全な状態を維持し、セキュリティプログラムを推進し続けることを確保します。
 
 **方法 (How)**
 
-By formally allocating time for security activities the Security Champions can combine security work with their other responsibilities. This investment will increase the quality and reduce the amount of rework and incidents.
+セキュリティ活動のための時間を正式に割り当てることで、セキュリティチャンピオンはセキュリティ業務と他の責務と組み合わせることができます。この投資は品質を向上し、手戻りやインシデントを減らすでしょう。
 
-Allocate budget for webinars, conferences and training to ensure Security Champions can develop and gain new knowledge. These new insights can uncover vulnerabilities and will most likely improve the quality and throughput time of the deliverables. Internal workshops, sessions, training and events are a great way to share knowledge within the organization and get new people excited for security.
- 
-Introduce job titles/specialized roles to give recognition to the Security Champions. Bonuses and promotion can be an additional incentive for employees to take security seriously and walk that extra mile.
+ウェビナー、カンファレンス、トレーニングに予算を割り当て、セキュリティチャンピオンが新しい知識を身につけられるようにします。このような新しい知見によって脆弱性が明らかになり、成果物の品質とスループット時間が大いに向上することでしょう。社内ワークショップ、セッション、トレーニング、イベントは組織内で知識を共有し、新人がセキュリティに興味を持つようになる優れた方法です。
+
+セキュリティチャンピオンを表彰するために役職名や専門的な役割を導入します。賞与や昇進は従業員がセキュリティを真剣に取り組み、一層の努力をするためのさらなるインセンティブとなり得るでしょう。
 
 <br>
 
