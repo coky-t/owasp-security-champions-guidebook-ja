@@ -3,3 +3,7 @@
 * [Irfaan Santoe](mailto:irfaan.santoe@owasp.org)
 * [Michael Bernhardt](https://de.linkedin.com/in/michael-bernhardt-cyber)
 * [Robin van Loon](mailto:robin.vanloon@owasp.org)
+
+### 貢献者
+* Jaiya "JP" Preston
+* Sebastiaan van der Meer
