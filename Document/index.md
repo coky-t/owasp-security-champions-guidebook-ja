@@ -21,6 +21,6 @@ pitch: A very brief, one-line description of your project
   - プログラムリーダー
   - セキュリティチャンピオンプログラムの経験を有する組織の CISO や幹部
 
-[こちら](https://www.youtube.com/watch?v=18Zgq9qB1NA) のプロジェクト発表ビデオをご覧ください。
+プロジェクトの最新情報は [こちら](https://www.youtube.com/watch?v=unQxiUuhujg&t=5947s) (11 分) をご覧ください。
 
 フィードバックやアイデアを聞かせてください。詳細については 'Get Involved' タブをご覧ください。
