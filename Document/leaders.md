@@ -5,6 +5,8 @@
 * [Robin van Loon](mailto:robin.vanloon@owasp.org)
 
 ### 貢献者
+* [Brady Hawkins](https://www.linkedin.com/in/brady-hawkins/)
+* [Gjalt Wijma](https://www.linkedin.com/in/gtwijma/)
 * Jaiya "JP" Preston
 * [Marisa Fagan](https://www.linkedin.com/in/marisafagan/)
 * Sebastiaan van der Meer
