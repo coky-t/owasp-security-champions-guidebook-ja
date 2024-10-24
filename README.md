@@ -24,7 +24,7 @@ This is the unofficial Japanese translation of the [OWASP Security Champions Gui
 * [8. 責任に報いる](Document/docs/principles/08_Reward_responsibility.md)
 * [9. チャンピオンに投資する](Document/docs/principles/09_Invest_in_your_champions.md)
 * [10. 人事異動を予測する](Document/docs/principles/10_Anticipate_personnel_changes.md)
-* [リーダー](Document/leader.md)
+* [リーダー](Document/leaders.md)
 
 ## License
 
