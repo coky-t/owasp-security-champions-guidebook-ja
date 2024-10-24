@@ -1,5 +1,5 @@
 {
-  "root" : "./Document",
+  "root" : "./Document/docs",
   "plugins" : [ "anchors" ],
 
   "structure": {

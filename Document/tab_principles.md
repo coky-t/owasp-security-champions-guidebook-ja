@@ -43,7 +43,7 @@ tags: Champions
 
 社内公募に限定してはいけません。募集要項でセキュリティの重要性を強調し、セキュリティ文化を高めることができる情熱を注ぐ人材を惹きつけましょう。候補者にセキュリティの経験について尋ね、その才気を見つけられるかどうかを確認してください。
 
-セキュリティチャンピオンの情熱をかき立てる機会はたくさんあります。[このチェックリスト](https://raw.githubusercontent.com/OWASP/www-project-security-champions-guidebook/main/assets/artefacts/Security%20Champions%20Guide%20-%20Be%20Passionate%20About%20Security%20-%20Checklist.pdf) と使用して、そうするための可能性のある接点と機会を見つけることができます。
+セキュリティチャンピオンの情熱をかき立てる機会はたくさんあります。[このチェックリスト](https://raw.githubusercontent.com/OWASP/www-project-security-champions-guidebook/main/assets/artefacts/Security%20Champions%20Guide%20-%20Be%20Passionate%20About%20Security%20-%20Checklist.pdf) を使用して、そうするための可能性のある接点と機会を見つけることができます。
 
 <br>
 
