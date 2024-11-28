@@ -32,4 +32,4 @@
 プロジェクトチームの個人的な経験や、セキュリティチャンピオンプログラムを実施している組織とのインタビューから、セキュリティチャンピオンプログラムを主導するのはフルタイムの仕事であることがわかりました。大規模な組織では、これは小規模なチームが必要になるかもしれません。成功するには、この役割に情熱を持ち、推進に適切なスキルセットを備えている専任の人員を「指名」するか雇用することをお勧めします。これを「兼業」としてしまうと、プログラムを成功させるために必要な勢いや専念が失われてしまいます。同様に、セキュリティの知識はあっても、そのようなプログラムを推進するための適切なコミュニケーションスキルや組織的スキルがかけている人も、そのプログラムが成功しない要因となる可能性があります。
 
 ## アーティファクト (Artefacts)
-[この求人情報](https://raw.githubusercontent.com/OWASP/Security-Champions/refs/heads/main/docs/assets/artefacts/Security%20Champions%20Guide%20%2D%20Nominate%20a%20dedicated%20Captain%20%2D%20Job%20vacancy.pdf) は専任のセキュリティチャンピオンキャプテンを雇用する場合に使用できます。
+[この求人情報](https://raw.githubusercontent.com/OWASP/Security-Champions/refs/heads/main/docs/assets/artifacts/Security%20Champions%20Guide%20%2D%20Nominate%20a%20dedicated%20Captain%20%2D%20Job%20vacancy.pdf) は専任のセキュリティチャンピオンキャプテンを雇用する場合に使用できます。
