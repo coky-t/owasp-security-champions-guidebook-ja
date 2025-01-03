@@ -1,12 +1,10 @@
 ---
-
 layout: col-sidebar
 title: OWASP Security Champions Guide
 tags: Champions
 level: 2
 type: Documentation
 pitch: Our goal is to create an open-source, vendor-neutral guidebook for AppSec professionals to help them build and improve their own successful Security Champion programs.
-
 ---
 ![OWASP Security Champions Guide logo](https://raw.githubusercontent.com/OWASP/www-project-security-champions-guidebook/main/assets/images/OWASP%20Security%20Champions%20Guide%20logo%20SBS.png)
 
@@ -21,6 +19,6 @@ pitch: Our goal is to create an open-source, vendor-neutral guidebook for AppSec
   - プログラムリーダー
   - セキュリティチャンピオンプログラムの経験を有する組織の CISO や幹部
 
-プロジェクトの最新情報は [こちら](https://www.youtube.com/watch?v=unQxiUuhujg&t=5947s) (11 分) をご覧ください。
+プロジェクトの最新情報は [こちら](https://www.youtube.com/watch?v=EoxpHIgJLNM) (42 分) をご覧ください。
 
 フィードバックやアイデアを聞かせてください。詳細については 'Get Involved' タブをご覧ください。
