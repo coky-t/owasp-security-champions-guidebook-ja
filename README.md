@@ -9,7 +9,7 @@ This is the unofficial Japanese translation of the [OWASP Security Champions Gui
 - Document Site - <https://securitychampions.owasp.org/>
 - Document Repository - <https://github.com/OWASP/Security-Champions>
 
-# OWASP セキュリティチャンピオンガイド 日本語版
+## OWASP セキュリティチャンピオンガイド 日本語版
 
 * [OWASP セキュリティチャンピオンガイド](Document/docs/index.md)
 * [宣言](Document/docs/manifesto.md)
