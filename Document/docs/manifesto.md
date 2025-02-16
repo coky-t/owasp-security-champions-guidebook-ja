@@ -2,19 +2,22 @@ OWASP セキュリティチャンピオン宣言 (Security Champions Manifesto) 
 
 この原則は、包括的なセキュリティチャンピオンプレイブックを提供するという広範な目標の一環として、世界中のアプリケーションセキュリティリーダーとの最初の一連の綿密なインタビューから導き出されました。
 
-<img src="https://raw.githubusercontent.com/OWASP/Security-Champions/refs/heads/main/docs/assets/images/OWASP_Security_Champions_Manifesto.png" usemap="#image-map">
-<map name="image-map">
-    <area target="_self" title="Be passionate about security" href="./principles/01_Be_passionate_about_security.md" coords="174,85,24,289" shape="rect">
-    <area target="_self" title="Start with a clear vision for your program" href="./principles/02_Start_with_a_clear_vision_for_your_program.md" coords="184,290,335,85" shape="rect">
-    <area target="_self" title="Secure management support" href="./principles/03_Secure_management_support.md" coords="495,86,349,288" shape="rect">
-    <area target="_self" title="Nominate a dedicated captain" href="./principles/04_Nominate_a_dedicated_captain.md" coords="505,287,656,87" shape="rect">
-    <area target="_self" title="Trust your champions" href="./principles/05_Trust_your_champions.md" coords="667,286,816,87" shape="rect">
-    <area target="_self" title="Create a community" href="./principles/06_Create_a_community.md" coords="23,509,172,309" shape="rect">
-    <area target="_self" title="Promote knowledge sharing" href="./principles/07_Promote_knowledge_sharing.md" coords="184,508,335,307" shape="rect">
-    <area target="_self" title="Reward responsibility" href="./principles/08_Reward_responsibility.md" coords="346,507,495,308" shape="rect">
-    <area target="_self" title="Invest in your champions" href="./principles/09_Invest_in_your_champions.md" coords="507,508,656,307" shape="rect">
-    <area target="_self" title="Anticipate personnel changes" href="./principles/10_Anticipate_personnel_changes.md" coords="668,509,817,310" shape="rect">
-</map>
+<!--Set rgba(0, 0, 0, .25) for each div for debugging the areas of the image -->
+<div style="position: relative;">
+  <img src="https://raw.githubusercontent.com/OWASP/Security-Champions/refs/heads/main/docs/assets/images/OWASP_Security_Champions_Manifesto.png" style="width: 100%; height: auto;">
+  <a target="_self" title="Be passionate about security" href="./principles/01_Be_passionate_about_security.md"><div style="position: absolute; left: 3%; top: 14%; width: 18%; height: 33.5%; background-color: rgba(0, 0, 0, 0);"></div></a>
+  <a target="_self" title="Start with a clear vision for your program" href="./principles/02_Start_with_a_clear_vision_for_your_program.md"><div style="position: absolute; left: 22%; top: 14%; width: 18%; height: 33.5%; background-color: rgba(0, 0, 0, 0);"></div></a>
+  <a target="_self" title="Secure management support" href="./principles/03_Secure_management_support.md"><div style="position: absolute; left: 41%; top: 14%; width: 18%; height: 33.5%; background-color: rgba(0, 0, 0, 0);"></div></a>
+  <a target="_self" title="Nominate a dedicated captain" href="./principles/04_Nominate_a_dedicated_captain.md"><div style="position: absolute; left: 60%; top: 14%; width: 18%; height: 33.54%; background-color: rgba(0, 0, 0, 0);"></div></a>
+  <a target="_self" title="Trust your champions" href="./principles/05_Trust_your_champions.md"><div style="position: absolute; left: 79%; top: 14%; width: 18%; height: 33.5%; background-color: rgba(0, 0, 0, 0);"></div></a>
+
+  <a target="_self" title="Create a community" href="./principles/06_Create_a_community.md"><div style="position: absolute; left: 3%; top: 50.5%; width: 18%; height: 33.5%; background-color: rgba(0, 0, 0, 0);"></div></a>
+  <a target="_self" title="Promote knowledge sharing" href="./principles/07_Promote_knowledge_sharing.md"><div style="position: absolute; left: 22%; top: 50.5%; width: 18%; height: 33.5%; background-color: rgba(0, 0, 0, 0);"></div></a>
+  <a target="_self" title="Reward responsibility" href="./principles/08_Reward_responsibility.md"><div style="position: absolute; left: 41%; top: 50.5%; width: 18%; height: 33.5%; background-color: rgba(0, 0, 0, 0);"></div></a>
+  <a target="_self" title="Invest in your champions" href="./principles/09_Invest_in_your_champions.md"><div style="position: absolute; left: 60%; top: 50.5%; width: 18%; height: 33.5%; background-color: rgba(0, 0, 0, 0);"></div></a>
+  <a target="_self" title="Anticipate personnel changes" href="./principles/10_Anticipate_personnel_changes.md"><div style="position: absolute; left: 79%; top: 50.5%; width: 18%; height: 33.5%; background-color: rgba(0, 0, 0, 0);"></div></a>
+</div>
+
 
 ## 主要な原則
 セキュリティチャンピオンプログラムを成功させる十大原則:
