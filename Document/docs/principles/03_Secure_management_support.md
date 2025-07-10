@@ -20,6 +20,6 @@
 
 最後に、プログラムの提案は特定された各利害関係者によって承認され、そのプログラムが正式なプログラムとなる必要があります。
 
-ある金融機関 (銀行) がセキュリティチャンピオンプログラムを正式化するケースを構築するために使用した [こちらの成果物](https://raw.githubusercontent.com/OWASP/Security-Champions/refs/heads/main/docs/assets/artifacts/security%20champions%20(updated).pptx) をご覧ください。
+ある金融機関 (銀行) がセキュリティチャンピオンプログラムを正式化するケースを構築するために使用した [こちらの成果物](https://raw.githubusercontent.com/OWASP/Security-Champions/refs/heads/main/docs/assets/artifacts/Security%20Champions%20Guide%20-%20Secure%20management%20support%20-%20Business%20case.pptx) をご覧ください。
 
 (追記 含まれる成果物には、組織のコンテキストと、ユーザーの組織にモデルをコピー＆ペーストする際に再検討が必要な理由についての明確な免責事項が含まれています。)
