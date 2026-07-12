@@ -2,7 +2,7 @@
 
 This is the unofficial Japanese translation of the [OWASP Security Champions Guide](https://github.com/OWASP/Security-Champions).
 
-- Document Site - <https://coky-t.gitbook.io/owasp-security-champions-guidebook-ja/>
+<!-- - Document Site - <https://coky-t.gitbook.io/owasp-security-champions-guidebook-ja/> -->
 - Document Repository - <https://github.com/coky-t/owasp-security-champions-guidebook-ja>
 
 ### Originator
@@ -37,5 +37,5 @@ This is the unofficial Japanese translation of the [OWASP Security Champions Gui
 
 [Koki Takeyama](https://github.com/coky-t)
 
-- Document Site - <https://coky-t.gitbook.io/owasp-docs-ja/>
+<!-- - Document Site - <https://coky-t.gitbook.io/owasp-docs-ja/> -->
 - Document Repository - <https://github.com/coky-t/owasp-docs-ja>
